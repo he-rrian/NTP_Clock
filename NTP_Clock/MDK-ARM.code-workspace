@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "MDK-ARM"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_ds1302.h": "c",
+			"oled.h": "c",
+			"bsp_sht2x.h": "c",
+			"i2c.h": "c",
+			"at24cxx.h": "c"
+		}
+	}
+}

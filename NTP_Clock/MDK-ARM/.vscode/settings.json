@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"*.v": "verilog",
+		"*.md": "plaintext",
+		"*.cla": "c",
+		"bsp_udp.h": "c",
+		"stdio.h": "c",
+		"lan8742.h": "c",
+		"ethernetif.h": "c"
+	}
+}

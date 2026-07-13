@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_udp.h": "c",
+			"i2c.h": "c",
+			"main.h": "c",
+			"lwip.h": "c",
+			"AT_CMD.C": "cpp",
+			"at_cmd.h": "c",
+			"bsp_ds1302.h": "c",
+			"bsp_74hc245.h": "c",
+			"bsp_sht2x.h": "c"
+		}
+	}
+}
